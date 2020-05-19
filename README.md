@@ -16,12 +16,12 @@ alt="Shuffler Demo" width="240" height="180" border="10" /></a>
 
 <div class="row">
       <img src="/screenshots/Screenshot_2018-05-20-15-28-50-927_com.example.anujsharma.shuffler.png" width="250" title="Song Images">
-      <img src="/screenshots/Screenshot_2018-05-20-15-30-35-472_com.example.anujsharma.shuffler.png" width="250" title="Responsive Notification">     
+      <img src="/screenshots/Screenshot_2018-05-20-15-30-35-472_com.example.anujsharma.shuffler.png" width="250" title="Responsive Notification and songs">     
       <img src="/screenshots/Screenshot_2018-05-20-15-03-01-584_com.example.anujsharma.shuffler.png" width="250" title="Artist Profile">
 </div>
 
 <div class="row">
       <img src="/screenshots/Screenshot_2018-05-20-14-59-47-654_com.example.anujsharma.shuffler.png" width="250" title="Search History">
-      <img src="/screenshots/Screenshot_2018-05-20-15-02-39-938_com.example.anujsharma.shuffler.png" width="250" title="Saved Playlists">
+      <img src="/screenshots/Screenshot_2018-05-20-15-02-39-938_com.example.anujsharma.shuffler.png" width="250" title="Saved Playlis">
       <img src="/screenshots/Screenshot_2018-05-20-15-04-15-523_com.example.anujsharma.shuffler.png" width="250" title="Search Results">
 </div>

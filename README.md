@@ -16,7 +16,7 @@ alt="Shuffler Demo" width="240" height="180" border="10" /></a>
 
 <div class="row">
       <img src="/screenshots/Screenshot_2018-05-20-15-28-50-927_com.example.anujsharma.shuffler.png" width="250" title="Song Images">
-      <img src="/screenshots/Screenshot_2018-05-20-15-30-35-472_com.example.anujsharma.shuffler.png" width="250" title="Responsive Notification and songs">     
+      <img src="C:\Users\Mohammad Abdullah\Pictures\BARRELCapture.png" width="250" title="Responsive Notification and songs">     
       <img src="/screenshots/Screenshot_2018-05-20-15-03-01-584_com.example.anujsharma.shuffler.png" width="250" title="Artist Profile">
 </div>
 
